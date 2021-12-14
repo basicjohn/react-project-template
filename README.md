@@ -4,11 +4,6 @@
 A brief description of what this project does and who it's for
 
 
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
 ## Tech Stack
 
 **Client:** React, Axios, Bootstrap, Sass
@@ -52,6 +47,11 @@ Start the server
 ```
 
 
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+
 ## FAQ
 
 #### Question 1
@@ -72,4 +72,3 @@ Answer 2
 
  - [Source - @basicjohn](https://www.github.com/basicjohn)
  - [Acknowledgements - John Edmondson](https://www.github.com/basicjohn)
-
